@@ -1,4 +1,9 @@
-### Hi there 👋
+### Technical skills 
+Languages: JavaScript, TypeScript, Python
+Frameworks: React, Node.js, EmberJS
+Tools: Git, GitHub, Jira, VS Code, Cursor, Splunk
+Practices: GraphQL, Agile/Scrum, Test driven development, System Design
+
 
 <!--
 **rox163/rox163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
