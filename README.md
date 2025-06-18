@@ -1,8 +1,10 @@
+Experienced Software Engineer with 15 years of experience designing, developing, and scaling complex software systems. 
+
 ### Technical skills 
-Languages: JavaScript, TypeScript, Python
-Frameworks: React, Node.js, EmberJS
-Tools: Git, GitHub, Jira, VS Code, Cursor, Splunk
-Practices: GraphQL, Agile/Scrum, Test driven development, System Design
+- Languages: JavaScript, TypeScript, GraphQL, Python
+- Frameworks: React, Node.js, EmberJS
+- Tools: Git, GitHub, Jira, VS Code, Cursor, Splunk
+- Practices: Agile/Scrum, Test driven development, System Design
 
 
 <!--
